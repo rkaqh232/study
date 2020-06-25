@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>asdfasdf</title>
+<title>asdfasdf2323</title>
 </head>
 <body>
 <h1>m.jsp입니다.</h1>
