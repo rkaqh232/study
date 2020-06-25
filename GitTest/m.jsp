@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>asdfasdf</title>
 </head>
 <body>
 <h1>m.jsp입니다.</h1>
